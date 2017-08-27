@@ -1,0 +1,18 @@
+20:55:43.503 [qtp328046478-28] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+20:55:43.508 [qtp328046478-28] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+20:55:56.057 [qtp328046478-29] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+20:55:56.058 [qtp328046478-29] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+20:56:07.087 [qtp328046478-27] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+20:56:07.087 [qtp328046478-27] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+20:57:15.038 [qtp328046478-26] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+20:57:15.038 [qtp328046478-26] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+20:59:52.583 [qtp328046478-27] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+20:59:52.583 [qtp328046478-27] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+21:03:30.199 [qtp328046478-31] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+21:03:30.199 [qtp328046478-31] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+21:30:30.433 [qtp328046478-26] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+21:30:30.433 [qtp328046478-26] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+21:31:17.899 [qtp328046478-29] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+21:31:17.900 [qtp328046478-29] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+21:32:11.701 [qtp328046478-26] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: S1009
+21:32:11.701 [qtp328046478-26] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp

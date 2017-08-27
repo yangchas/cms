@@ -1,0 +1,12 @@
+19:37:34.764 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.sys_admin drop foreign key FK_cnd55ehpwm8n9rgdjiaoewxal
+19:37:34.776 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.sys_admin' doesn't exist
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.sys_admin drop foreign key FK_cnd55ehpwm8n9rgdjiaoewxal
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.sys_admin' doesn't exist
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.sys_user drop foreign key FK_3xmp6q1rp7q1r7baucrlbf5l
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.sys_user' doesn't exist
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.tbl_ad drop foreign key FK_2ae3a5ntl47iot8by6m4f13fr
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.tbl_ad' doesn't exist
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.tbl_article drop foreign key FK_pwcijh72vvtavqks12am4nfft
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.tbl_article' doesn't exist
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.tbl_article_category drop foreign key FK_4npyth411e8spcvca8rdihc4m
+19:39:29.831 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.tbl_article_category' doesn't exist

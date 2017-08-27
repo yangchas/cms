@@ -1,0 +1,11 @@
+15:28:18.822 [qtp1701691919-52] WARN  freemarker.jsp - Custom EL functions won't be loaded because no ObjectWarpper was specified .
+20:37:09.786 [qtp1754087707-23] WARN  freemarker.jsp - Custom EL functions won't be loaded because no ObjectWarpper was specified .
+21:44:49.662 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.sys_admin drop foreign key FK_cnd55ehpwm8n9rgdjiaoewxal
+21:44:49.669 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.sys_admin' doesn't exist
+21:44:49.671 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.tbl_ad drop foreign key FK_2ae3a5ntl47iot8by6m4f13fr
+21:44:49.671 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.tbl_ad' doesn't exist
+21:44:49.676 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.tbl_article drop foreign key FK_pwcijh72vvtavqks12am4nfft
+21:44:49.677 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.tbl_article' doesn't exist
+21:44:49.681 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table zyedu.tbl_article_category drop foreign key FK_4npyth411e8spcvca8rdihc4m
+21:44:49.681 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'zyedu.tbl_article_category' doesn't exist
+21:45:36.520 [qtp835631769-22] WARN  freemarker.jsp - Custom EL functions won't be loaded because no ObjectWarpper was specified .

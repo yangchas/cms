@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms>
+    <templateConfig id="index" type="page" name="首页" templatePath="/front/index.ftl" staticPath="/index.html"/>
+    <templateConfig id="articleContent" type="page" name="文章内容" templatePath="/front/article/content.ftl"
+                    staticPath="/article/content/${article.id}.html"/>
+</cms>

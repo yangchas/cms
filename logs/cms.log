@@ -1,0 +1,14 @@
+20:28:17.607 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table cms.sys_admin drop foreign key FK_cnd55ehpwm8n9rgdjiaoewxal
+20:28:17.638 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'cms.sys_admin' doesn't exist
+20:28:17.660 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table cms.tbl_ad drop foreign key FK_2ae3a5ntl47iot8by6m4f13fr
+20:28:17.660 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'cms.tbl_ad' doesn't exist
+20:28:17.676 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table cms.tbl_article drop foreign key FK_pwcijh72vvtavqks12am4nfft
+20:28:17.676 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'cms.tbl_article' doesn't exist
+20:28:17.692 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table cms.tbl_article_category drop foreign key FK_4npyth411e8spcvca8rdihc4m
+20:28:17.692 [main] ERROR o.h.tool.hbm2ddl.SchemaExport - Table 'cms.tbl_article_category' doesn't exist
+23:58:15.834 [qtp824900551-24] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 08S01
+23:58:15.838 [qtp824900551-24] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Communications link failure
+
+The last packet successfully received from the server was 16,026 milliseconds ago.  The last packet sent successfully to the server was 16,044 milliseconds ago.
+23:58:23.419 [qtp824900551-22] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 08003
+23:58:23.434 [qtp824900551-22] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - No operations allowed after connection closed.
